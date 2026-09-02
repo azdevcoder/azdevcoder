@@ -251,9 +251,7 @@ Flask · Pandas · Dark UI<br>
 ### // GITHUB EM TEMPO REAL
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azdevcoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00FF88&icon_color=00D4FF&text_color=ffffff&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdevcoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00FF88&text_color=ffffff&border_radius=12" />
-</p>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=holi)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=azdevcoder&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&border_radius=12" />
