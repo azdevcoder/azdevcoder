@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.azdevcoder.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-azdevcoder.com.br-0a0a0a?style=flat-square&logo=googlechrome&logoColor=00D4FF" /></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-zago-azdevcoder/"><img src="https://img.shields.io/badge/LINKEDIN-André_Zago-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contato@azdevcoder.com.br"><img src="https://img.shields.io/badge/E--MAIL-contato%40azdevcoder.com.br-0a0a0a?style=flat-square&logo=gmail&logoColor=00FF88" /></a>
+  <a href="https://portfolio.azdevcoder.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-azdevcoder.com.br-0a0a0a?style=flat-square&logo=googlechrome&logoColor=29acff" /></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-zago-azdevcoder/"><img src="https://img.shields.io/badge/LINKEDIN-André_Zago-0A66C2?style=flat-square&logo=linkedin&logoColor=29acff" /></a>
+  <a href="mailto:contato@azdevcoder.com.br"><img src="https://img.shields.io/badge/E--MAIL-contato%40azdevcoder.com.br-0a0a0a?style=flat-square&logo=gmail&logoColor=29acff" /></a>
 </p>
 
 ---
