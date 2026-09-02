@@ -362,4 +362,4 @@ Z-orbital-crm
   <sub>Se algum projeto te interessou, abre uma issue ou me chama no <a href="https://www.linkedin.com/in/andr%C3%A9-zago-azdevcoder/">LinkedIn</a> — respondo em < 24h</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29acff,50:00FF88,100:0a0a0a&height=120&section=footer&text=&fontSize=12" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29acff,100:0a0a0a&height=120&section=footer&text=&fontSize=12" />
