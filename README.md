@@ -10,7 +10,7 @@
   <a href="https://github.com/azdevcoder"><img src="https://komarev.com/ghpvc/?username=azdevcoder&label=PROFILE+VIEWS&color=29acff&style=for-the-badge" /></a>
   <img src="https://img.shields.io/github/repositories/azdevcoder?label=REPOS&color=29acff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-AUTOMA%C3%87%C3%83O%20%26%20ERP-0a0a0a?style=for-the-badge&logo=robot&logoColor=29acff" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-00FF88?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-00FF88?style=for-the-badge&logo=github&logoColor=29acff" />
 </p>
 
 <p align="center">
