@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00FF88,100:00D4FF&height=280&section=header&text=AZDEV%20CODER&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Andre%20Zago%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA&descAlignY=75&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29acff&height=280&section=header&text=AZDEV%20CODER&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Andre%20Zago%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA&descAlignY=75&descAlign=50" />
 
 <p align="center">
   <a href="https://github.com/azdevcoder">
