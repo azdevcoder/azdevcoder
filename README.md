@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29acff&height=280&section=header&text=AZDEV%20CODER&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Andre%20Zago%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA&descAlignY=75&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=29acff&height=280&section=header&text=AzDev%20Coder&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Andre%20Zago%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20IA&descAlignY=75&descAlign=50" />
 
 <p align="center">
   <a href="https://github.com/azdevcoder">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FF88&center=true&vCenter=true&width=820&lines=Transformando+ideias+em+c%C3%B3digo.;118%2B+projetos+locais+%7C+60+repos+p%C3%BAblicos+%7C+19+labs+Opencode;Python+%E2%80%A2+Node.js+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+IA+%E2%80%A2+ERP+Fiscal;10+anos+de+neg%C3%B3cio+%2B+c%C3%B3digo+que+resolve" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=29acff&center=true&vCenter=true&width=820&lines=Transformando+ideias+em+c%C3%B3digo.;118%2B+projetos+locais+%7C+60+repos+p%C3%BAblicos+%7C+19+labs+Opencode;Python+%E2%80%A2+Node.js+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+IA+%E2%80%A2+ERP+Fiscal;10+anos+de+neg%C3%B3cio+%2B+c%C3%B3digo+que+resolve" alt="Typing SVG" />
   </a>
 </p>
 
