@@ -251,9 +251,6 @@ Flask · Pandas · Dark UI<br>
 ### // GITHUB EM TEMPO REAL
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=holi" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=azdevcoder&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&border_radius=12" />
 </p>
 
@@ -261,6 +258,9 @@ Flask · Pandas · Dark UI<br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azdevcoder&theme=holi" />
 </p>
 
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?user=azdevcoder&theme=holi" />
+</p>
 ---
 
 ### // ATIVIDADE
