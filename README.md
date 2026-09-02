@@ -267,12 +267,16 @@ Flask · Pandas · Dark UI<br>
 
 ### // ATIVIDADE
 
-<!-- Snake -->
+<!-- Snake - auto gerado por .github/workflows/snake.yml para branch output -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azdevcoder/azdevcoder/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azdevcoder/azdevcoder/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azdevcoder/azdevcoder/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azdevcoder/azdevcoder/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
-<p align="center"><sub>↑ Se a cobra não aparecer, ative o workflow <a href="https://github.com/Platane/snk">Platane/snk</a> no repo — já deixei o placeholder.</sub></p>
+<p align="center"><sub>🐍 Gerado automaticamente por <code>.github/workflows/snake.yml</code> → branch <code>output</code> | atualiza a cada 6h + a cada push em <code>main</code></sub></p>
 
 ---
 
