@@ -260,7 +260,7 @@ Flask · Pandas · Dark UI<br>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azdevcoder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azdevcoder&theme=holi" />
 </p>
 
 ---
