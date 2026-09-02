@@ -347,9 +347,9 @@ Z-orbital-crm
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <a href="https://portfolio.azdevcoder.com.br"><img src="https://img.shields.io/badge/—_Vamos_tirar_essa_ideia_do_papel?—-00FF88?style=for-the-badge&logo=rocket&logoColor=0a0a0a&labelColor=0a0a0a" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <sub>📍 Maringá — PR · Aberto a freelas, parcerias e code review</sub><br>
